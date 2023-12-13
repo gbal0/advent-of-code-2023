@@ -1,0 +1,12 @@
+.idea
+target
+/.idea/
+/.idea/.gitignore
+/.idea/advent-of-code-2023.iml
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
