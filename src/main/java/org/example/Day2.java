@@ -23,7 +23,7 @@ public class Day2 {
     public static void main(String[] args) throws URISyntaxException, IOException {
         String fileName = "day-2-input.txt";
 
-        ClassLoader classLoader = Day1.class.getClassLoader();
+        ClassLoader classLoader = Day2.class.getClassLoader();
         URL resource = classLoader.getResource(fileName);
         var file = new File(resource.toURI());
 
